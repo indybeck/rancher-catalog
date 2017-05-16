@@ -1,0 +1,5 @@
+version: '2'
+catalog:
+  name: redis
+  version: 3.2.8
+  description: Redis data structure store
