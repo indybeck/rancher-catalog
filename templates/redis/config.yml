@@ -1,6 +1,6 @@
-name: # Name of the Catalog Entry
+name: Redis
 description: |
-  # Description of the Catalog Entry
+        Redis key-value datastore
 version: 3.2.8
 category: database
 maintainer: Indy Beck
